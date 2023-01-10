@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var count = 0
-        var listOfPict = mutableListOf<String>(
+        val listOfPict = mutableListOf<String>(
             "https://picfiles.alphacoders.com/340/340634.jpg",
             "https://mobimg.b-cdn.net/v3/fetch/15/1518db9e8ea14417912075eab35b87ea.jpeg",
             "https://i.pinimg.com/originals/f9/6d/1f/f96d1ff46bf1b1466bcf805e5fa461bd.jpg",
