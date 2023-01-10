@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageProject</string>
+    <string name="next_picture">Next picture</string>
 </resources>
